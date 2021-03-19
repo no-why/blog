@@ -1,1 +1,1 @@
-### nowhy's blog [website](https://www.recoluan.com)
+### nowhy's blog [website](https://jmatic.club)

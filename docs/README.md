@@ -1,4 +1,5 @@
 ---
+base: '/blog/'
 home: true
 bgImage: '/banner.jpg'
 bgImageStyle: {
